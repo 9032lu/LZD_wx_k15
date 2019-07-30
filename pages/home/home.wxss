@@ -1,0 +1,10 @@
+/* pages/home/home.wxss */
+.intro{
+  margin: 30px;
+  text-align: center;
+}
+.container {
+  background-color: #fff;
+  min-height: 100%;
+  display: block;
+}

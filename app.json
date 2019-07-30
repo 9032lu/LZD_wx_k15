@@ -1,0 +1,54 @@
+{
+  "pages": [
+    "pages/home/home",
+    "pages/mixed_media/mixed_media",
+    "pages/learn/learn",
+    "pages/library/library",
+    "pages/userCenter/userCenter"
+  ],
+  "tabBar": {
+    "custom": false,
+    "selectedColor": "#11cd6e",
+    "color": "#a9b7b7",
+    "borderStyle": "black",
+    "list": [
+      {
+        "pagePath": "pages/mixed_media/mixed_media",
+        "text": "融媒体",
+        "iconPath": "/imageSource/rx.png",
+        "selectedIconPath": "/imageSource/rx.png"
+      },
+      {
+        "pagePath": "pages/learn/learn",
+        "text": "必读馆",
+        "iconPath": "/imageSource/dx.png",
+        "selectedIconPath": "/imageSource/dx.png"
+      },
+      {
+        "pagePath": "pages/home/home",
+        "text": "首页",
+        "iconPath": "/imageSource/sx.png",
+        "selectedIconPath": "/imageSource/sx.png"
+      },
+      {
+        "pagePath": "pages/library/library",
+        "text": "图书馆",
+        "iconPath": "/imageSource/tx.png",
+        "selectedIconPath": "/imageSource/tx.png"
+      },
+      {
+        "pagePath": "pages/userCenter/userCenter",
+        "text": "我的",
+        "iconPath": "/imageSource/wx.png",
+        "selectedIconPath": "/imageSource/wx.png"
+      }
+    ]
+  },
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "WeChat",
+    "navigationBarTextStyle": "black"
+  },
+  "sitemapLocation": "sitemap.json"
+}

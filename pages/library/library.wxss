@@ -1,0 +1,6 @@
+/* pages/library/library.wxss */
+.container {
+  background-color: #aaa;
+  height: 100%;
+  /* display: block; */
+}
